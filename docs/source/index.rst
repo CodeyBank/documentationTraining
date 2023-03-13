@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Future Simulator App
 ===================================
 
 Future Simulator is a Windows Desktop application for logging and sending data commands to microcontrollers. 
