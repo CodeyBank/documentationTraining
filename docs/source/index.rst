@@ -8,12 +8,21 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is under active development. Changes will be updated here
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Requirements
+   Installation guide
+   Connecting to Node
+   Configuration
+   Accessing App Logs
+   Sending Commands
+   Receiving Commands
+   How to Log Data from onboard sensors
+   Future updates
+   
+   
